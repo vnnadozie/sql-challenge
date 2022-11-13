@@ -10,7 +10,7 @@ In this assignment, you will design the tables to hold data in the CSVs, import 
 2. Data Analysis
 
 # Data Engineering
-![Fig1](C:\Users\wnnad\OneDrive\Documents\GitHub\sql-challenge-whitney-\EmployeeSQL\ERD\QuickDBD-export.PNG)
+Inspects the CSVs and sketch out an ERD of the tables.
 
 # Data Analysis
 List the employee number, last name, first name, sex, and salary of each employee.
